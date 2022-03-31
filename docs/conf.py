@@ -15,7 +15,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath("../src"))
 
-import rate_limit
+from pfmsoft import rate_limit
 
 # -- Project information -----------------------------------------------------
 

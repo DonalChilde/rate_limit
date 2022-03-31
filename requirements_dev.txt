@@ -9,7 +9,6 @@ sphinx-autobuild
 sphinx-autodoc-typehints
 sphinx_rtd_theme
 twine
-Click
 pytest
 pytest-cov
 pytest-asyncio
